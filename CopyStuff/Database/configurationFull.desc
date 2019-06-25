@@ -1,0 +1,27 @@
+;~~~~~~~~~~~~~~~~~~~descriptors~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+; temporal
+SignalZeroCrossingRate = ShortTime MeanAndDeviation Delta DeltaDelta Median
+TotalEnergy = ShortTime MeanAndDeviation Delta DeltaDelta Median
+
+; spectral
+SpectralCentroid = ShortTime MeanAndDeviation Delta DeltaDelta Median
+SpectralSpread = ShortTime MeanAndDeviation Delta DeltaDelta Median
+SpectralSkewness = ShortTime MeanAndDeviation Delta DeltaDelta Median
+SpectralKurtosis = ShortTime MeanAndDeviation Delta DeltaDelta Median
+SpectralSlope = ShortTime MeanAndDeviation Delta DeltaDelta Median
+SpectralDecrease = ShortTime MeanAndDeviation Delta DeltaDelta Median
+SpectralRolloff = ShortTime MeanAndDeviation Delta DeltaDelta Median
+SpectralVariation = ShortTime MeanAndDeviation Delta DeltaDelta Median
+				
+; perceptual
+Loudness = ShortTime MeanAndDeviation Delta DeltaDelta Median 
+Spread = ShortTime MeanAndDeviation Delta DeltaDelta Median
+Sharpness = ShortTime MeanAndDeviation Delta DeltaDelta Median
+PerceptualOddToEvenRatio = ShortTime MeanAndDeviation Delta DeltaDelta Median
+						
+; harmonic
+FundamentalFrequency = ShortTime MeanAndDeviation Delta DeltaDelta Median
+NoiseEnergy = ShortTime MeanAndDeviation Delta DeltaDelta Median
+Noisiness = ShortTime MeanAndDeviation Delta DeltaDelta Median
+Inharmonicity = ShortTime MeanAndDeviation Delta DeltaDelta Median	 
+HarmonicEnergy = ShortTime MeanAndDeviation Delta DeltaDelta Median

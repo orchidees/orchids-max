@@ -1,0 +1,7 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-15", "toggle", "int", 1, 5, "obj-17", "toggle", "int", 1, 5, "obj-80", "number", "int", 100, 5, "obj-219", "live.slider", "float", 100.0, 5, "obj-8", "toggle", "int", 1, 5, "obj-20", "toggle", "int", 0, 5, "obj-26", "toggle", "int", 1, 5, "obj-30", "toggle", "int", 0, 5, "obj-38", "number", "int", 100, 5, "obj-32", "live.slider", "float", 100.0, 5, "obj-50", "number", "int", 100, 5, "obj-39", "live.slider", "float", 100.0, 5, "obj-61", "number", "int", 4, 5, "obj-54", "live.slider", "float", 0.103448, 5, "obj-68", "number", "int", 4, 5, "obj-62", "live.slider", "float", 0.103448, 5, "obj-51", "flonum", "float", 0.25, 5, "obj-19", "live.slider", "float", 0.25, 5, "obj-70", "toggle", "int", 1, 5, "obj-106", "number", "int", 40, 5, "obj-102", "live.slider", "float", 40.0, 5, "obj-119", "number", "int", 2, 5, "obj-115", "live.slider", "float", 2.0, 5, "obj-126", "number", "int", 40, 5, "obj-122", "live.slider", "float", 40.0, 5, "obj-133", "flonum", "float", 0.5, 5, "obj-129", "live.slider", "float", 0.5, 5, "obj-140", "flonum", "float", 0.4, 5, "obj-136", "live.slider", "float", 0.4, 5, "obj-91", "textedit", "set", "Default" ]
+		}
+ ]
+}

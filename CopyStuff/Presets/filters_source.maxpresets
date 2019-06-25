@@ -1,0 +1,7 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-141", "umenu", "int", 1, 5, "obj-16", "textedit", "set", "Sol", 6, "obj-8", "textedit", "set", 1, 0 ]
+		}
+ ]
+}

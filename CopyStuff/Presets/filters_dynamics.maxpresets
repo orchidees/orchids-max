@@ -1,0 +1,7 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-11", "textedit", "set", "All", 6, "obj-58", "rslider", "list", 0, 7 ]
+		}
+ ]
+}
